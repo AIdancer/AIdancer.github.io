@@ -12,6 +12,7 @@
   - [人工智能 机器学习](./coolproject/AI.md)
   - [监控系统](./coolproject/monitoring.md)
   - [量化投资](./coolproject/quant.md)
+  - [C++](./coolproject/cpp.md)
 
 ## 笔记
   - [量化交易](./mynote/investment.md)
