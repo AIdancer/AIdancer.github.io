@@ -16,8 +16,12 @@ Git地址: [https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)
 LightGBM跟XGBoost相似，由微软开源。相比XGBoost，LGBM大幅度优化了模型训练过程，在准确率相当的情况下， 把训练速度提高了近10倍，而且有更好的并行训练性能。  
 Git地址: [https://github.com/Microsoft/LightGBM](https://github.com/Microsoft/LightGBM)  
 
-
 ## TabNet(Pytorch版本)
 Google发布的TabNet是一种针对于表格数据的神经网络，它通过类似于加性模型的顺序注意力机制（sequential attention mechanism）实现了instance-wise的特征选择，还通过encoder-decoder框架实现了自监督学习。TabNet的实践效果不输XGBoost/LGBM，在算力资源充沛和fine-tune充分的情况下， 效果往往好于LGBM。  
 Git地址: [https://github.com/dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet)  
+
+## AIGC优质项目集合
+非常棒的AIGC项目集  
+Git地址：[https://www.futurepedia.io/](https://www.futurepedia.io/)  
+
 
