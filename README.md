@@ -2,7 +2,7 @@
 
 ## Note
   - 收藏最好的**github项目**
-  - 简单记载工作、生活、项目
+  - 简单记载工作、生活、项目、学习资料
   - 个人邮箱moon.liqiaz@gmail.com，如果有很酷的git项目推荐欢迎发邮件交流。
 
 
@@ -17,3 +17,4 @@
 ## 笔记
   - [量化交易](./mynote/investment.md)
   - [工作项目笔记](./mynote/worknote.md)
+  - [学习资料](./learning/blockchain.md)
