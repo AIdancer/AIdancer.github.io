@@ -18,3 +18,6 @@
   - [量化交易](./mynote/investment.md)
   - [工作项目笔记](./mynote/worknote.md)
   - [学习资料](./learning/blockchain.md)
+
+## Blog
+  - [图片文字识别ORC](./blog/ocr.md)
